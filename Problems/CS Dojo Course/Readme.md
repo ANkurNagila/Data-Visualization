@@ -5,3 +5,6 @@
 
 ### Problem 2:
         Create Time graph to compare population growth rate of US and China
+
+### Problem 3:
+        Relationship between GDP(not per Capita) and Life Expectancy in 2007.
